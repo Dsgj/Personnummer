@@ -1,4 +1,4 @@
-# Kunskapstest för Omegapoint - Personnummer
+# Kunskapstest för Arbetsgivare - Personnummer
 
 ## Programstruktur
 * Main
